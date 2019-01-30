@@ -7,5 +7,9 @@
     "start": "node src/main.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "csv-parse": "^4.3.1"
+  }
 }
