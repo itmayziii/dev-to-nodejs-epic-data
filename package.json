@@ -1,0 +1,10 @@
+{
+  "name": "dev-to-nodejs-epic-data",
+  "version": "0.0.1",
+  "description": "Dev.to article on handling big data with NodeJS",
+  "main": "src/main.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
